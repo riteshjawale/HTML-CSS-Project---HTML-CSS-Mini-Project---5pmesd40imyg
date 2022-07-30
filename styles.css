@@ -1,0 +1,134 @@
+a:link{text-decoration: none;}
+a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+a:active{text-decoration: none;}
+
+.maindiv{   
+    font-family: sans-serif;
+}
+.navbar{display: inline-flex; align-items: center;
+width: 1346px;
+margin-left: 10px; margin-right: 10px;
+background-color: rgb(253, 244, 244);
+
+}
+
+.navbarlist{display: inline-block;
+text-align: left;}
+
+.container{float: left; margin-left: 20px;}
+
+.button{float: right; margin-left: 450px;  background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 10px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 8px;} .navitem{display: inline-flex;} .navitem li{margin-inline: 50px;list-style: none;}
+
+
+.middletext{text-align: center; margin-top: 40px;}
+.about{display: inline-flex; margin-left: 10px; margin-right: 10px; border-radius: 15px 5px 15px 150px; background-color: gainsboro; height: 400px; width: 1300px; align-items: center;}
+.image{margin-left: 80px;}
+.text{margin-left: 40px;}
+
+.menublock{
+    margin-top: 15px;
+    margin-left: 1px;
+    width: 1200px;
+}
+.menublockitems{
+    list-style: none;
+    display: inline-flex;
+    padding-left: 10px;
+    margin-inline: 10px ;
+    
+}
+.menublockitems li{
+    margin-inline: 20px;
+    background-color: rgb(212, 209, 209); 
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    padding: 4px;
+}
+.itemname{
+    text-align: center;
+    font-weight: bold;    
+}
+
+/* Home Page  */
+
+.slogan{
+    display: grid;
+    margin: 10px;
+    border-radius: 15px 5px 15px 150px;
+    height: 250px; width: 1300px;
+    background-image: url(slogan.png);
+    background-repeat: no-repeat;
+    background-size: 1300px 250px;
+    align-content: center;
+    text-align: center;
+    color: white;  
+}
+
+.menulisting{
+    display: inline-flex;
+    margin-left: 10px;
+    
+}
+.menulist{
+    font-weight: bold;
+    display: grid;
+    height: 260.31px;
+    
+    background-color: rgb(244, 236, 230);
+    width: 170px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.menulist li{
+    margin: 5px;
+    text-align: start;
+}
+.menulist h1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    
+    
+}
+.tags{
+    display: grid;
+    align-items: center;
+    text-align: center;
+}
+.tag{
+    display: inline-block;
+    font-size: larger;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-inline: 15px;
+    align-items: center;
+    text-align: center;
+    
+}
+.button2{
+    display: inline-block;
+background-color: rgb(135, 117, 117);       
+border: none;
+color: white;
+font: bolder;
+height: 60px;
+width: 260px;
+padding: 10px 15px;
+margin-left: 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 8px;
+}
+.personal{
+    text-align: center;
+}
