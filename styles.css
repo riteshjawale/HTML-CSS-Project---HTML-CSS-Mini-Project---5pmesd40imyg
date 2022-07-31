@@ -106,7 +106,7 @@ border-radius: 8px;} .navitem{display: inline-flex;} .navitem li{margin-inline: 
 .button2{
     display: inline-block;
 background-color: rgb(135, 117, 117);       
-border: none;
+border: #4CAF50 3px;
 color: white;
 font: bolder;
 height: 60px;
@@ -136,4 +136,4 @@ font-size: 16px;
 
 a:hover{color: blue;}
 a:active{color: red;}
-a:hover{background-color: rgb(117, 101, 101);color: white;}
+a:hover{background-color: rgb(117, 101, 101);;color: white;}
